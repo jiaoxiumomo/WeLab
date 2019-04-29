@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>image/WindowOpen.jpg</file>
+        <file>image/downloadrbf.jpg</file>
+        <file>image/link.jpg</file>
+        <file>image/open.jpg</file>
+        <file>image/power.jpg</file>
+        <file>image/WindowHelp.jpg</file>
+        <file>image/WindowHelp.png</file>
+        <file>image/save.jpg</file>
+        <file>image/dingzhi.jpg</file>
+        <file>image/GreendOn.ico</file>
+        <file>image/LedOff.ico</file>
+        <file>image/null.ico</file>
+        <file>image/RedOn0.ico</file>
+        <file>image/sw_off.bmp</file>
+        <file>image/sw_on.bmp</file>
+        <file>image/0.ico</file>
+        <file>image/1.ico</file>
+        <file>image/2.ico</file>
+        <file>image/3.ico</file>
+        <file>image/4.ico</file>
+        <file>image/5.ico</file>
+        <file>image/6.ico</file>
+        <file>image/7.ico</file>
+        <file>image/8.ico</file>
+        <file>image/9.ico</file>
+        <file>image/a.ico</file>
+        <file>image/b.ico</file>
+        <file>image/c.ico</file>
+        <file>image/d.ico</file>
+        <file>image/e.ico</file>
+        <file>image/f.ico</file>
+        <file>image/sw0.ico</file>
+        <file>image/sw1.ico</file>
+        <file>image/keydown.ico</file>
+        <file>image/keyup.ico</file>
+        <file>image/flags.jpg</file>
+        <file>image/english.jpg</file>
+        <file>image/chinese.jpg</file>
+    </qresource>
+</RCC>

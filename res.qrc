@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/trans">
+        <file alias="english">trans/en.qm</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="AppIcon">images/Application.ico</file>
+        <file alias="Application">images/Application.png</file>
+        <file alias="switch_0">images/Switch0.png</file>
+        <file alias="led_off">images/LED_Dark.png</file>
+        <file alias="led_green">images/LED_Green.png</file>
+        <file alias="led_red">images/LED_Red.png</file>
+        <file alias="burn">images/burn.png</file>
+        <file alias="link">images/connect.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="flags">images/flag.png</file>
+        <file alias="switch_1">images/Switch1yellow.png</file>
+        <file alias="key_up_0">images/Key0gray.png</file>
+        <file alias="key_down_0">images/Key0GrayDown.png</file>
+        <file alias="key_down_1">images/Key1yellow.png</file>
+        <file alias="key_up_1">images/Key1YellowUp.png</file>
+        <file alias="H">images/h.png</file>
+        <file alias="G">images/g.png</file>
+        <file alias="F">images/f.png</file>
+        <file alias="E">images/e.png</file>
+        <file alias="D">images/d.png</file>
+        <file alias="C">images/c.png</file>
+        <file alias="B">images/b.png</file>
+        <file alias="A">images/a.png</file>
+        <file alias="SSTUBE">images/sstube.png</file>
+        <file alias="KEY-1">images/Key-1.png</file>
+        <file alias="KEY-0">images/Key-0.png</file>
+        <file alias="KEY0">images/KEY0.png</file>
+        <file alias="KEY1">images/KEY1.png</file>
+        <file alias="A1">images/a1.png</file>
+        <file alias="B1">images/b1.png</file>
+        <file alias="C1">images/c1.png</file>
+        <file alias="D1">images/d1.png</file>
+        <file alias="E1">images/e1.png</file>
+        <file alias="F1">images/f1.png</file>
+        <file alias="G1">images/g1.png</file>
+        <file alias="H1">images/h1.png</file>
+        <file alias="BG">images/背景.png</file>
+    </qresource>
+</RCC>
